@@ -26,7 +26,7 @@ Simply add the `[SearchableEnum]` attribute above any public enum field in your 
 
 
 Example script:
-
+```csharp
 using UnityEngine;
 
 public enum ItemType
